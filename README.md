@@ -1,4 +1,5 @@
 # Rating-Product-Sorting-Reviews-in-Amazon
+In this project, calculating the correct scoring of products on e-commerce sites is one of the most important problems. Solving this problem means greater satisfaction, product prominence and purchasing for customers, and a seamless shopping experience for buyers for sellers. Another problem is that the reviews given to the products are used as a ranking. Misleading reviews will directly affect the sale of the product, so it can cause both financial loss and loss of customers. The solution to these two basic problems allows e-commerce sites, sellers and customers to complete the shopping journey without any problems.
 
 # Business Problem
 One of the most important problems in e-commerce is selling products is the correct calculation of the points awarded. This the solution to the problem is more customers for the e-commerce site
